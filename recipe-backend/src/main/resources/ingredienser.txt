@@ -1,0 +1,15 @@
+Gurka:grönsak
+Isbergsallad:grönsak
+Blandfärs:färs
+Nöttfärs:färs
+Fläskfärs:färs
+Soja:sås
+Salt:krydda
+Peppar:krydda
+Vetemjöl:bak
+Vetemjöl Special:bak
+Socker:krydda
+Raps olja:olja
+Majs olja:olja
+Oliv olja:olja
+Extra virgin olive olil:olja
